@@ -9,8 +9,8 @@ go get -u github.com/Andoryuuta/ddon_pcap_split
 ```
 ```
 # Single file
->>> ddon_pcap_split -i [psome_file.pcap]
+>>> ddon_pcap_split -i [some_file.pcap]
 
 # Bulk processing
->>> ddon_pcap_split -idir [input_folder] -odir [output_log.txt]
+>>> ddon_pcap_split -idir [input_folder] -odir [output_folder]
 ```
